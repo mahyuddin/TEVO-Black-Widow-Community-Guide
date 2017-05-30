@@ -23,7 +23,9 @@ Everything TEVO Black Widow! \(13 videos\)
 
 [TEVO Black Widow Version 3 Assembly Series](http://www.youtube.com/playlist?list=PLY5Z2koT4Mi4JoQ_QZDS7pu9S1m0SqUiB)
 
-
-
 ## How to square & parallel the frame and leadscrews?
+
+The document, can be found at Annex section 13.2 of this document.
+
+
 
