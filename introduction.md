@@ -2,18 +2,16 @@
 
 ## Preface
 
-Dear BW \(Black Widow\) user. Temporary solutions, troubleshooting……and important upgrade  
- information…for newbies…. and so called pro’s brought to you by JupaCreations.com & Doron Shalev
+Dear BW \(Black Widow\) user. Temporary solutions, troubleshooting……and important upgrade information…for newbies…. and so called pro’s brought to you by JupaCreations.com & Doron Shalev
 
-If you bought a TEVO Black Widow, you will find out that there is no manual for software, firmware or  
- other electronic stuff so far.
+If you bought a TEVO Black Widow, you will find out that there is no manual for software, firmware or other electronic stuff so far.
 
 By reading this BWCG \(Black Widow Community Guide\) from start to end, you can overcome some  
  problems, so read this manual first fully.
 
 If you need, for any reason, to open a support ticket for TEVO use this link:
 
-[http://www.tevoprinter.com/osticket/            
+[http://www.tevoprinter.com/osticket/              
 ](http://www.tevoprinter.com/osticket/)
 
 Check your spam folder if you do not get an answer soon.
@@ -85,13 +83,15 @@ This document, is no longer available in the files section of this Facebook grou
 
 The latest version can be found HERE .
 
-The link is also sticky as part of the pinned post, at the top of the “Discussion” pane of the “TEVO Black Widow Owners Group”.
+The link is also sticky as part of the pinned post, at the top of the “Discussion” pane of the “TEVO Black  
+ Widow Owners Group”.
 
 ## Acknowledgments
 
-We would like to thank Wan-Muhammad Arief, Tash Bhairo, Ed Farias, Tom Keidar, Fred Kratky, Rob Mendon, Laurent Paillard, Rui Raptor, Jari Tulilahti, Pest Vic, Bruce Walker & Dean Walsh for their contributions to this manual, either directly or by linked videos & FW.
+We would like to thank Wan-Muhammad Arief, Tash Bhairo, Ed Farias, Tom Keidar, Fred Kratky, Rob  
+ Mendon, Laurent Paillard, Rui Raptor, Jari Tulilahti, Pest Vic, Bruce Walker & Dean Walsh for their  
+ contributions to this manual, either directly or by linked videos & FW.
 
-We have tried to identify all the contributors to this manual, and may have missed someone. If you feel that you have a contribution that was not acknowledged, please let us know.
-
-
+We have tried to identify all the contributors to this manual, and may have missed someone. If you feel  
+ that you have a contribution that was not acknowledged, please let us know.
 
