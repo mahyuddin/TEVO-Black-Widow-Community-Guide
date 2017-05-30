@@ -13,7 +13,7 @@ By reading this BWCG \(Black Widow Community Guide\) from start to end, you can 
 
 If you need, for any reason, to open a support ticket for TEVO use this link:
 
-[http://www.tevoprinter.com/osticket/        
+[http://www.tevoprinter.com/osticket/          
 ](http://www.tevoprinter.com/osticket/)
 
 Check your spam folder if you do not get an answer soon.
@@ -58,11 +58,26 @@ The authors have no personal or financial affiliation with TEVO or any other 3D 
 
 ### Donations
 
-If you think you benefit one way or another from using this Community Guide and you like to show that, then think about donating any amount of your choice to a charity fund that helps people in need like for example “Doctors without borders”.
+If you think you benefit one way or another from using this Community Guide and you like to  
+ show that, then think about donating any amount of your choice to a charity fund that helps  
+ people in need like for example “Doctors without borders”.
 
-Just post a FB message with the name of the charity organization and the amount donated. So we all know that the Community Guide can lead to a better world, not only in 3D.
+Just post a FB message with the name of the charity organization and the amount donated. So  
+ we all know that the Community Guide can lead to a better world, not only in 3D.
 
 All previous donations have been transferred to the mentioned charity organization.
+
+| Name | Date | Amount in Euro |
+| :--- | :---: | :---: |
+| Tobias Muller | 1 Dec 2016 | 20 |
+| Allan Shilito | 15 Dec 2016 | 20 |
+| Donald Hricko | 22 Dec 2016 | 20 |
+| Stefan Haderer | 14 Jan 2017 | 30 |
+| Wu Qiaoru | 14 Jan 2017 | 95 |
+| Donal Atwood | 26 Jan 2017 | 18.25 |
+| Peter Truskier | 16 Feb 2017 | 18.25 |
+| Russell Cole | 01 Mar 2017 | 20 |
+| Motorcycle Panel & Paint | 27 Mar 2017 | 20 |
 
 
 
