@@ -10,7 +10,7 @@ By reading this BWCG \(Black Widow Community Guide\) from start to end, you can 
 
 If you need, for any reason, to open a support ticket for TEVO use this link:
 
-[http://www.tevoprinter.com/osticket/                  
+[http://www.tevoprinter.com/osticket/                    
 ](http://www.tevoprinter.com/osticket/)
 
 Check your spam folder if you do not get an answer soon.
@@ -23,16 +23,13 @@ The main chapters in this document are: Building Instructions & Videos, Operatio
 
 Please note that elements which involve conversion of energy between electricity and another entity, e.g. motion, light & heat, has been given their own chapters, i.e. ElectroMechanical, Electro-Optical & Electro-Thermal respectively.
 
-Please note that few sections have been duplicated to streamline the reading of some topics. These  
- are denoted in the appropriate headlines, where applicable.
+Please note that few sections have been duplicated to streamline the reading of some topics. These are denoted in the appropriate headlines, where applicable.
 
-An Annexes section has been added, which contains hard to find documents, as well as Glossary of  
- terms and abbreviations. Please note that each abbreviation is explained once at the 1st appearance.
+An Annexes section has been added, which contains hard to find documents, as well as Glossary of terms and abbreviations. Please note that each abbreviation is explained once at the 1st appearance.
 
 Items which require special attention are highlighted in Bold Green font.
 
-Items which may either result in erratic operation, or pose safety issue under normal operation, are  
- marked “Caution” and highlighted in Bold Red font.
+Items which may either result in erratic operation, or pose safety issue under normal operation, are marked “Caution” and highlighted in Bold Red font.
 
 ## Disclaimer, Proper Disclosure & Donations
 
@@ -50,12 +47,9 @@ The authors have no personal or financial affiliation with TEVO or any other 3D 
 
 ### Donations
 
-If you think you benefit one way or another from using this Community Guide and you like to  
- show that, then think about donating any amount of your choice to a charity fund that helps  
- people in need like for example “Doctors without borders”.
+If you think you benefit one way or another from using this Community Guide and you like to show that, then think about donating any amount of your choice to a charity fund that helps people in need like for example “Doctors without borders”.
 
-Just post a FB message with the name of the charity organization and the amount donated. So  
- we all know that the Community Guide can lead to a better world, not only in 3D.
+Just post a FB message with the name of the charity organization and the amount donated. So we all know that the Community Guide can lead to a better world, not only in 3D.
 
 All previous donations have been transferred to the mentioned charity organization.
 
