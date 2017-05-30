@@ -13,7 +13,7 @@ By reading this BWCG \(Black Widow Community Guide\) from start to end, you can 
 
 If you need, for any reason, to open a support ticket for TEVO use this link:
 
-[http://www.tevoprinter.com/osticket/  
+[http://www.tevoprinter.com/osticket/    
 ](http://www.tevoprinter.com/osticket/)
 
 Check your spam folder if you do not get an answer soon.
@@ -48,11 +48,12 @@ Items which may either result in erratic operation, or pose safety issue under n
 
 All the information in this document is gathered, verified and prepared by volunteers.
 
-**The authors are not responsible for any damage caused by reading this document and the use of it.**
+**The authors are not responsible for any damage caused by reading this document and the use  of it.**
 
-This document comes to you as is. Proposals and omission requests can be sent to the authors Doron Shalev and Paco Raap. Requests will be checked by the authors for usability and if found valuable, will be incorporated in this document.
+This document comes to you as is. Proposals and omission requests can be sent to the authors Doron Shalev and Paco Raap. Requests will be checked by the authors for usability and if found valuable, will be incorporated in this document.
 
 ### Proper Disclosure
 
-The authors have no personal or financial affiliation with TEVO or any other 3D manufacturer or any 3D web shop.
+The authors have no personal or financial affiliation with TEVO or any other 3D manufacturer or  
+ any 3D web shop.
 
