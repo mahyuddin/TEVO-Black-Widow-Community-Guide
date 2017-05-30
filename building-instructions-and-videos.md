@@ -17,7 +17,7 @@ In addition, Extruder + Flow Rate Calibration, can be seen [HERE](http://www.you
 
 ### Black Widow Assembly Video Series by Pest Vic
 
-Everything TEVO Black Widow! \(13 videos\)
+[Everything TEVO Black Widow!](http://www.youtube.com/playlist?list=PLzvzDI0nZwjTXcTe7n32hQNmCUdO9Vrm-) \(13 videos\)
 
 ### Black Widow Version 3 Assembly Video Series by Ruiraptor
 
@@ -26,6 +26,4 @@ Everything TEVO Black Widow! \(13 videos\)
 ## How to square & parallel the frame and leadscrews?
 
 The document, can be found at Annex section 13.2 of this document.
-
-
 
