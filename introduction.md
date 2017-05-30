@@ -13,7 +13,7 @@ By reading this BWCG \(Black Widow Community Guide\) from start to end, you can 
 
 If you need, for any reason, to open a support ticket for TEVO use this link:
 
-[http://www.tevoprinter.com/osticket/          
+[http://www.tevoprinter.com/osticket/            
 ](http://www.tevoprinter.com/osticket/)
 
 Check your spam folder if you do not get an answer soon.
@@ -78,6 +78,20 @@ All previous donations have been transferred to the mentioned charity organizati
 | Peter Truskier | 16 Feb 2017 | 18.25 |
 | Russell Cole | 01 Mar 2017 | 20 |
 | Motorcycle Panel & Paint | 27 Mar 2017 | 20 |
+
+## Document Location
+
+This document, is no longer available in the files section of this Facebook group.
+
+The latest version can be found HERE .
+
+The link is also sticky as part of the pinned post, at the top of the “Discussion” pane of the “TEVO Black Widow Owners Group”.
+
+## Acknowledgments
+
+We would like to thank Wan-Muhammad Arief, Tash Bhairo, Ed Farias, Tom Keidar, Fred Kratky, Rob Mendon, Laurent Paillard, Rui Raptor, Jari Tulilahti, Pest Vic, Bruce Walker & Dean Walsh for their contributions to this manual, either directly or by linked videos & FW.
+
+We have tried to identify all the contributors to this manual, and may have missed someone. If you feel that you have a contribution that was not acknowledged, please let us know.
 
 
 
