@@ -10,23 +10,18 @@ By reading this BWCG \(Black Widow Community Guide\) from start to end, you can 
 
 If you need, for any reason, to open a support ticket for TEVO use this link:
 
-[http://www.tevoprinter.com/osticket/                
+[http://www.tevoprinter.com/osticket/                  
 ](http://www.tevoprinter.com/osticket/)
 
 Check your spam folder if you do not get an answer soon.
 
-Also only reply by web-browser link through the ticket system for updates of your problem. Don’t  
- answer by email…………..!
+Also only reply by web-browser link through the ticket system for updates of your problem. Don’t answer by email…………..!
 
-As this document continues to grow, therefore as of revision 23 this document has been re-arranged  
- according to chapters, paragraphs & sub-paragraphs in hierarchy of 3 levels. A TOC \(Table of Contents\)  
- has been added, as well as revision history page.
+As this document continues to grow, therefore as of revision 23 this document has been re-arranged according to chapters, paragraphs & sub-paragraphs in hierarchy of 3 levels. A TOC \(Table of Contents\) has been added, as well as revision history page.
 
-The main chapters in this document are: Building Instructions & Videos, Operation, Mechanical,  
- Electrical, Firmware & Software.
+The main chapters in this document are: Building Instructions & Videos, Operation, Mechanical, Electrical, Firmware & Software.
 
-Please note that elements which involve conversion of energy between  
- electricity and another entity, e.g. motion, light & heat, has been given their own chapters, i.e. ElectroMechanical, Electro-Optical & Electro-Thermal respectively.
+Please note that elements which involve conversion of energy between electricity and another entity, e.g. motion, light & heat, has been given their own chapters, i.e. ElectroMechanical, Electro-Optical & Electro-Thermal respectively.
 
 Please note that few sections have been duplicated to streamline the reading of some topics. These  
  are denoted in the appropriate headlines, where applicable.
