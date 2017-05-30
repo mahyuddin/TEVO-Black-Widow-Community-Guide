@@ -6,12 +6,11 @@ Dear BW \(Black Widow\) user. Temporary solutions, troubleshooting……and impo
 
 If you bought a TEVO Black Widow, you will find out that there is no manual for software, firmware or other electronic stuff so far.
 
-By reading this BWCG \(Black Widow Community Guide\) from start to end, you can overcome some  
- problems, so read this manual first fully.
+By reading this BWCG \(Black Widow Community Guide\) from start to end, you can overcome some problems, so read this manual first fully.
 
 If you need, for any reason, to open a support ticket for TEVO use this link:
 
-[http://www.tevoprinter.com/osticket/              
+[http://www.tevoprinter.com/osticket/                
 ](http://www.tevoprinter.com/osticket/)
 
 Check your spam folder if you do not get an answer soon.
