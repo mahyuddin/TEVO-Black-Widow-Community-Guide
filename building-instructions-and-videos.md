@@ -91,7 +91,7 @@ Assembly instructions can be found here: [http://wiki.e3d-online.com/wiki/E3D-v6
   </tbody>
 </table>
 <br><br>
-<table>
+<table border=1>
   <tbody>
     <tr style="text-align:center"><img src="assets/BW with Stock-v3 Hotend Cross-Section.png" alt="BW Stock-v3 Hotend Cross-Section"></tr>
     <tr><b>Figure #2:</b> TEVO Black Widow Stock-v3 Hotend Cross-Section</tr>
@@ -109,7 +109,7 @@ If the gap is large enough, the rapid temperature changes during retractions, wi
     </tbody>
 </table>
 <br><br>
-<table>
+<table border=1>
   <tbody>
     <tr style="text-align:center"><img src="assets/BW with E3D Hotend Cross-Section.png" alt="E3D-V6 Hot-end Cross-Section"></tr>
     <tr>      <b>Figure #4:</b> E3D-V6 Hot-end Cross-Section Views</tr>
