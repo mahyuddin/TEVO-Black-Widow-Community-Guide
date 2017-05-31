@@ -123,14 +123,14 @@ Parts you might like to print to enhance the machine performance at start up.
 <tr>
     <th style="text-align:center">Item</th>
     <th>Description</th>
-    </tr>
-    <tr>
-    <td style="text-align:center"></td>
-    <td></td>
-    </tr>
-    <tr>
-    <td style="text-align:center"></td>
-    <td></td>
+</tr>
+<tr>
+    <td style="text-align:center">...gambar....</td>
+    <td>...</td>
+</tr>
+<tr>
+    <td style="text-align:center">...</td>
+    <td>...</td>
     </tr>
 </table>
 
