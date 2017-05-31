@@ -24,3 +24,11 @@ In addition, Extruder + Flow Rate Calibration, can be seen [HERE](http://www.you
 
 The document, can be found at Annex section 13.2 of this document.
 
+## Gift Parts
+
+| ![](/assets/TEVO BW thermistor.png) | With your kit you receive two items as a gift. One item is a thermistor for the hot-end heatblock.  |
+| :---: | :--- |
+
+
+
+
