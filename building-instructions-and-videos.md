@@ -44,7 +44,7 @@ The X Y and Z sensors are proximity inductive sensors which sense metal. To get 
 <table>
   <tbody>
     <tr>
-      <td style="text-align:center; width:50%"><img src="assets/TEVO BW thermistor.png" alt=""></td>
+      <td style="text-align:center; width:50%"><img src="assets/z plate bearing fitting 01.png" alt=""></td>
       <td style="text-align:left; width:50%">
       If you experience play on bearings, use the
 following tip.<br><br>
