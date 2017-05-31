@@ -104,15 +104,15 @@ If the gap is large enough, the rapid temperature changes during retractions, wi
 <br><br>
 <table>
   <tbody>
-    <tr style="text-align:center"><img src="assets/BW with E3D Extruder and Hotend.png" alt="BW with Stock Extruder and E3D Hot-end"></tr>
-    <tr>      <b>Figure #3:</b> TEVO Black Widow with Stock Extruder and E3D Hot-end</tr>
+    <tr style="text-align:center"><img src="assets/BW with E3D Extruder and Hotend.png" alt="BW with Stock Extruder and E3D-V6 Hot-end"></tr>
+    <tr>      <b>Figure #3:</b> TEVO Black Widow with Stock Extruder and E3D-V6 Hot-end</tr>
     </tbody>
 </table>
 <br><br>
 <table>
   <tbody>
-    <tr style="text-align:center"><img src="assets/BW with E3D Hotend Cross-Section.png" alt="E3D Hot-end Cross-Section"></tr>
-    <tr>      <b>Figure #4:</b> E3D Hot-end Cross-Section</tr>
+    <tr style="text-align:center"><img src="assets/BW with E3D Hotend Cross-Section.png" alt="E3D-V6 Hot-end Cross-Section"></tr>
+    <tr>      <b>Figure #4:</b> E3D-V6 Hot-end Cross-Section</tr>
     </tbody>
 </table>
 ##2.7 Recommended prints to start with
