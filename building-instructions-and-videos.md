@@ -67,7 +67,7 @@ might fit, however this has not been verified.</p></td>
 Assembly instructions can be found here: [http://wiki.e3d-online.com/wiki/E3D-v6_Assembly](http://wiki.e3d-online.com/wiki/E3D-v6_Assembly)
 
 <span style="text-decoration: underline;">The Stock V3 Hot-end breakdown is as follows:</span>
-A) Heat-sink: Modified E3D-V6.
+<b style="color:green">A) Heat-sink: Modified E3D-V6.</b>
 - The J-Head and the fins are the same as E3D-V6, however the thread for the heat-break is M6, not M7.
 B) Heat-block: Modified E3D-V5.
 - Different dimensions. An E3D-V5 heat-block may not function properly, thermal-wise.
