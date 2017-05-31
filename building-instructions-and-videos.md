@@ -80,7 +80,7 @@ Assembly instructions can be found here: [http://wiki.e3d-online.com/wiki/E3D-v6
 
 <b style="color:green">D) Nozzle: Modified MK7.</b>
 - The nozzle is not from the E3D family.
-<table>
+<table border=1>
   <tbody>
     <tr style="text-align:center"><img src="assets/BW Extruder and Stock-v3 Hotend General.png" alt="BW Extruder and Stock-v3 Hotend"></tr>
     <tr>      <b>Figure #1:</b> TEVO Black Widow Stock Extruder and Stock V3 Hot-end    </tr>
@@ -102,7 +102,7 @@ If the gap is large enough, the rapid temperature changes during retractions, wi
   </tbody>
 </table>
 <br><br>
-<table>
+<table border=1>
   <tbody>
     <tr style="text-align:center"><img src="assets/BW with E3D Extruder and Hotend.png" alt="BW with Stock Extruder and E3D-V6 Hot-end"></tr>
     <tr>      <b>Figure #3:</b> TEVO Black Widow with Stock Extruder and E3D-V6 Hot-end</tr>
