@@ -1,4 +1,4 @@
-# Building Instructions and Videos
+[](http://www.youtube.com/playlist?list=PLDJMid0lOOYnRCAdbFfzECor3EbqF8euw)# Building Instructions and Videos
 
 ## Video Links
 
@@ -26,9 +26,9 @@ The document, can be found at Annex section 13.2 of this document.
 
 ## Gift Parts
 
-| ![](/assets/TEVO BW thermistor.png) | With your kit you receive two items as a gift. One item is a thermistor for the hot-end heatblock. |
-| :---: | :--- |
 |![](/assets/TEVO BW thermistor.png)|With your kit you receive two items as a gift. One item is a thermistor for the hot-end heatblock. <br><br> <b>Please note</b><br> This thermistor can’t be used on the heat-bed, as is, since the heat-bed uses an SMD (Surface Mount Device) type thermistor. If you need to use it for the heat-bed, refer to Section 10.2.3 for instructions.<br><br>The other item is two LED (Light Emitting Diode) strips which you can connect directly to the 24 VDC (Volt Direct Current) of the Power Supply Unit. If they do not work check the polarity. There have been reports that the polarity signs on the strip were wrong. So double check. |
+| :---: | :--- |
+
 	
 
 
