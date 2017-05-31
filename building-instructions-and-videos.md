@@ -80,6 +80,16 @@ Assembly instructions can be found here: [http://wiki.e3d-online.com/wiki/E3D-v6
 
 <b style="color:green">D) Nozzle: Modified MK7.</b>
 - The nozzle is not from the E3D family.
+<table>
+  <tbody>
+    <tr style="text-align:center">
+      <img src="assets/BW Extruder and Stock-v3 Hotend General.png" alt="BW Extruder and Stock-v3 Hotend"></tr>
+      <tr>
+      ...
+    </tr>
+  </tbody>
+</table>
+
 
 
 
