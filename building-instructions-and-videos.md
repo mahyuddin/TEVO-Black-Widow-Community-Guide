@@ -109,7 +109,7 @@ If the gap is large enough, the rapid temperature changes during retractions, wi
     </tbody>
 </table>
 <br><br>
-<table border=1>
+<table style="border: 1px solid black">
   <tbody>
     <tr style="text-align:center"><img src="assets/BW with E3D Hotend Cross-Section.png" alt="E3D-V6 Hot-end Cross-Section"></tr>
     <tr>      <b>Figure #4:</b> E3D-V6 Hot-end Cross-Section Views</tr>
