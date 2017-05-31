@@ -1,4 +1,4 @@
-[](http://www.youtube.com/playlist?list=PLDJMid0lOOYnRCAdbFfzECor3EbqF8euw)[](http://www.youtube.com/playlist?list=PLDJMid0lOOYnRCAdbFfzECor3EbqF8euw)# Building Instructions and Videos
+# Building Instructions and Videos
 
 ## Video Links
 
