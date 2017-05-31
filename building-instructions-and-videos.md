@@ -95,7 +95,7 @@ Assembly instructions can be found here: [http://wiki.e3d-online.com/wiki/E3D-v6
   <tbody>
     <tr style="text-align:center"><img src="assets/BW with Stock-v3 Hotend Cross-Section.png" alt="BW Stock-v3 Hotend Cross-Section"></tr>
     <tr><b>Figure #2:</b> TEVO Black Widow Stock-v3 Hotend Cross-Section</tr>
-    <tr> One of the most common errors, when assembling the hot-end, which is the #1 cause for leaks and clogs, is the way the nozzle is assembled with relations to the heat-block and heat-break.<br><br>
+    <tr><br> One of the most common errors, when assembling the hot-end, which is the #1 cause for leaks and clogs, is the way the nozzle is assembled with relations to the heat-block and heat-break.<br><br>
 The nozzle must be locked to the heat-break, not the heat-block, as depicted in <b>Figure #2</b> above.<br><br>
 When locking the nozzle to the heat-block, a gap is formed between the nozzle and the heat-break. (<b style="color:green">The gap is exaggerated in the figure, to enhance readability</b>) This gap will let the high-pressure molten filament to flow between the threads, and will start leaking at the top of the heat-block. In some cases,depending on manufacturing tolerances, it may leak from the bottom of the heat-block as well.<br><br>
 If the gap is large enough, the rapid temperature changes during retractions, will eventually cause it to clog.</tr>
