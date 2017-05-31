@@ -37,6 +37,34 @@ The document, can be found at Annex section 13.2 of this document.
 
 ## XYZ Proximity Sensors Adjustment
 
+The X Y and Z sensors are proximity inductive sensors which sense metal. To get them working properly adjust them at a very close distance (maximum 1mm) to the part that should activate it. The sensors have a small orange LED built-in. When the sensor is activated the orange LED is ON. You can use a tip of a screw driver to test the sensor for working.
+
+## Z bottom and top plate bearing fitting not correct
+
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align:center; width:50%"><img src="assets/TEVO BW thermistor.png" alt=""></td>
+      <td style="text-align:left; width:50%">
+      If you experience play on bearings, use the
+following tip.<br><br>
+Use regular thin paper and glue with a little bit
+of glue stick glue the piece to the outer race of
+the bearing and with care slide both in place.
+All depends on the play. When ready remove the
+paper remains not needed.
+If you experience such play you can use this trick
+temporary and file a support ticket at TEVO for a
+correct version.
+Bearing type: MR688ZZ, ID: 8mm; OD: 16mm;
+Width: 4mm.
+Please note
+Some suffixes, e.g. ZZC have 5mm width. They
+might fit, however this has not been verified.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
