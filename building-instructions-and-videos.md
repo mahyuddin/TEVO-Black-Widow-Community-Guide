@@ -35,6 +35,8 @@ The document, can be found at Annex section 13.2 of this document.
   </tbody>
 </table>
 
+## XYZ Proximity Sensors Adjustment
+
 
 
 
