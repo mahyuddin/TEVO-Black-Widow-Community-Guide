@@ -52,7 +52,8 @@ Use regular thin paper and glue with a little bit of glue stick glue the piece t
 correct version.<br><br>
 Bearing type: MR688ZZ, ID: 8mm; OD: 16mm;<br>
 Width: 4mm.<br><br>
-Please note
+<p style="color:green"> <b style="text-decoration: underline;">
+Please note</b>
 Some suffixes, e.g. ZZC have 5mm width. They
 might fit, however this has not been verified.</td>
     </tr>
