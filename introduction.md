@@ -1,6 +1,6 @@
-# Introduction
+# 1. Introduction
 
-## Preface
+## 1.1 Preface
 
 Dear BW \(Black Widow\) user. Temporary solutions, troubleshooting……and important upgrade information…for newbies…. and so called pro’s brought to you by JupaCreations.com & Doron Shalev
 
@@ -10,7 +10,7 @@ By reading this BWCG \(Black Widow Community Guide\) from start to end, you can 
 
 If you need, for any reason, to open a support ticket for TEVO use this link:
 
-[http://www.tevoprinter.com/osticket/                      
+[http://www.tevoprinter.com/osticket/                        
 ](http://www.tevoprinter.com/osticket/)
 
 Check your spam folder if you do not get an answer soon.
@@ -31,9 +31,9 @@ Items which require special attention are highlighted in Bold Green font.
 
 Items which may either result in erratic operation, or pose safety issue under normal operation, are marked “Caution” and highlighted in Bold Red font.
 
-## Disclaimer, Proper Disclosure & Donations
+## 1.2 Disclaimer, Proper Disclosure & Donations
 
-### Disclaimer
+### 1.2.1 Disclaimer
 
 All the information in this document is gathered, verified and prepared by volunteers.
 
@@ -41,11 +41,11 @@ All the information in this document is gathered, verified and prepared by volun
 
 This document comes to you as is. Proposals and omission requests can be sent to the authors Doron Shalev and Paco Raap. Requests will be checked by the authors for usability and if found valuable, will be incorporated in this document.
 
-### Proper Disclosure
+### 1.2.2 Proper Disclosure
 
 The authors have no personal or financial affiliation with TEVO or any other 3D manufacturer or any 3D web shop.
 
-### Donations
+### 1.2.3 Donations
 
 If you think you benefit one way or another from using this Community Guide and you like to show that, then think about donating any amount of your choice to a charity fund that helps people in need like for example “Doctors without borders”.
 
@@ -65,7 +65,7 @@ All previous donations have been transferred to the mentioned charity organizati
 | Russell Cole | 01 Mar 2017 | 20 |
 | Motorcycle Panel & Paint | 27 Mar 2017 | 20 |
 
-## Document Location
+## 1.3 Document Location
 
 This document, is no longer available in the files section of this Facebook group.
 
@@ -74,7 +74,7 @@ The latest version can be found HERE .
 The link is also sticky as part of the pinned post, at the top of the “Discussion” pane of the “TEVO Black  
  Widow Owners Group”.
 
-## Acknowledgments
+## 1.4 Acknowledgments
 
 We would like to thank Wan-Muhammad Arief, Tash Bhairo, Ed Farias, Tom Keidar, Fred Kratky, Rob Mendon, Laurent Paillard, Rui Raptor, Jari Tulilahti, Pest Vic, Bruce Walker & Dean Walsh for their contributions to this manual, either directly or by linked videos & FW.
 
