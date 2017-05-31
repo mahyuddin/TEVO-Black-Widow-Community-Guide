@@ -26,8 +26,8 @@ The document, can be found at Annex section 13.2 of this document.
 
 ## Gift Parts
 
-| ![](/assets/TEVO BW thermistor.png) | With your kit you receive two items as a gift. One item is a thermistor for the hot-end heatblock.  |
-| :---: | :--- |
+| ![](/assets/TEVO BW thermistor.png) | With your kit you receive two items as a gift. One item is a thermistor for the hot-end heatblock. <br><br> Please note <br>
+This thermistor can’t be used on the heat-bed, as is, since the heat-bed uses an SMD (Surface Mount Device) type thermistor. If you need to use it for the heat-bed, refer to Section 10.2.3 for instructions. |
 
 
 
