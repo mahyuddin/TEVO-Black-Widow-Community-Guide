@@ -28,11 +28,8 @@ The document, can be found at Annex section 13.2 of this document.
 
 | ![](/assets/TEVO BW thermistor.png) | With your kit you receive two items as a gift. One item is a thermistor for the hot-end heatblock. |
 | :---: | :--- |
+|![](/assets/TEVO BW thermistor.png)||
 	
-Yes, you can merge them using HTML. When I create tables in .md files from Github, I always like to use HTML code instead of markdown.
-
-Github Flavored Markdown supports basic HTML in .md file. So this would be the answer:
-
 Markdown mixed with HTML:
 
 | Tables        | Are           | Cool  |
