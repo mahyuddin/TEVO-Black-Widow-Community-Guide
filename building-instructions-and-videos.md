@@ -26,7 +26,7 @@ The document, can be found at Annex section 13.2 of this document.
 
 ## 2.3 Gift Parts
 
-<table>
+<table border=1>
   <tbody>
     <tr>
       <td style="text-align:center; width:50%"><img src="assets/TEVO BW thermistor.png" alt="thermistor"></td>
@@ -41,7 +41,7 @@ The X Y and Z sensors are proximity inductive sensors which sense metal. To get 
 
 ## 2.5 Z bottom and top plate bearing fitting not correct
 
-<table>
+<table border=1>
   <tbody>
     <tr>
       <td style="text-align:center; width:50%"><img src="assets/z plate bearing fitting 01.png" alt="Fitting z plate bearing">
