@@ -84,7 +84,7 @@ Assembly instructions can be found here: [http://wiki.e3d-online.com/wiki/E3D-v6
   <tbody>
     <tr style="text-align:center"><img src="assets/BW Extruder and Stock-v3 Hotend General.png" alt="BW Extruder and Stock-v3 Hotend"></tr>
     <tr>      <b>Figure #1:</b> TEVO Black Widow Stock Extruder and Stock V3 Hot-end    </tr>
-    <tr><br>It is recommend for anyone who has one of it’s components faulty, to do the following:<br><br>
+    <tr><br><br>It is recommend for anyone who has one of it’s components faulty, to do the following:<br><br>
     <ol>
 <li>Get replacement parts from TEVO. Getting replacement parts from other vendors would be extremely difficult, if not impossible on one hand, and trying to use the originals/clones won’t work, as most probably they won’t fit, or not work properly thermal-wise.</li>
 <li>Replace the TEVO Stock-V3 with either a genuine E3D-V6, or a good clone, as depicted in the following <b>Figures #3 & #4</b>.</li>    </ol></tr>
