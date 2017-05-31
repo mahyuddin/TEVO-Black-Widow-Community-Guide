@@ -67,14 +67,18 @@ might fit, however this has not been verified.</p></td>
 Assembly instructions can be found here: [http://wiki.e3d-online.com/wiki/E3D-v6_Assembly](http://wiki.e3d-online.com/wiki/E3D-v6_Assembly)
 
 <span style="text-decoration: underline;">The Stock V3 Hot-end breakdown is as follows:</span>
+
 <b style="color:green">A) Heat-sink: Modified E3D-V6.</b>
-- The J-Head and the fins are the same as E3D-V6, however the thread for the heat-break is M6, not M7.<br>
+- The J-Head and the fins are the same as E3D-V6, however the thread for the heat-break is M6, not M7.
+
 <b style="color:green">B) Heat-block: Modified E3D-V5.</b>
 - Different dimensions. An E3D-V5 heat-block may not function properly, thermal-wise.
-C) Heat-break: Modified E3D-V5.
+
+<b style="color:green">C) Heat-break: Modified E3D-V5.<b>
 - Longer by 1mm.
 - Actually for 3mm filament, fited with 3mm OD, 2mm ID PTFE liner (PTFE: Poly-TetraFluoro-Ethylene, known as Teflon).
-D) Nozzle: Modified MK7.
+
+<b style="color:green">D) Nozzle: Modified MK7.</b>
 - The nozzle is not from the E3D family.
 
 
