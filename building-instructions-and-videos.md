@@ -51,11 +51,10 @@ following tip.<br><br>
 Use regular thin paper and glue with a little bit of glue stick glue the piece to the outer race of the bearing and with care slide both in place. All depends on the play. When ready remove the paper remains not needed. If you experience such play you can use this trick temporary and file a support ticket at TEVO for a
 correct version.<br><br>
 Bearing type: MR688ZZ, ID: 8mm; OD: 16mm;<br>
-Width: 4mm.<br><br>
-<p style="color:green"> <b style="text-decoration: underline;">
-Please note</b>
+Width: 4mm.<br><br><p style="color:green"> <b style="text-decoration: underline;">
+Please note</b><br>
 Some suffixes, e.g. ZZC have 5mm width. They
-might fit, however this has not been verified.</td>
+might fit, however this has not been verified.</p></td>
     </tr>
   </tbody>
 </table>
