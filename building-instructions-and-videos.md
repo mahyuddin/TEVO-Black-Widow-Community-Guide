@@ -26,8 +26,57 @@ The document, can be found at Annex section 13.2 of this document.
 
 ## Gift Parts
 
-| ![](/assets/TEVO BW thermistor.png) | With your kit you receive two items as a gift. One item is a thermistor for the hot-end heatblock.<br> test  |
+| ![](/assets/TEVO BW thermistor.png) | With your kit you receive two items as a gift. One item is a thermistor for the hot-end heatblock. |
 | :---: | :--- |
+	
+Yes, you can merge them using HTML. When I create tables in .md files from Github, I always like to use HTML code instead of markdown.
+
+Github Flavored Markdown supports basic HTML in .md file. So this would be the answer:
+
+Markdown mixed with HTML:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+Or pure HTML:
+
+<table>
+  <tbody>
+    <tr>
+      <th>Tables</th>
+      <th align="center">Are</th>
+      <th align="right">Cool</th>
+    </tr>
+    <tr>
+      <td>col 3 is</td>
+      <td align="center">right-aligned</td>
+      <td align="right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td align="center">centered</td>
+      <td align="right">$12</td>
+    </tr>
+    <tr>
+      <td>zebra stripes</td>
+      <td align="center">are neat</td>
+      <td align="right">$1</td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td align="center">See the list</td>
+      <td align="right">from the first column</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
