@@ -1,4 +1,4 @@
-##2.7 Recommended prints to start with
+##2.7 Recommended Prints to Start With
 Parts you might like to print to enhance the machine performance at start up.
 
 
@@ -12,7 +12,7 @@ Parts you might like to print to enhance the machine performance at start up.
   </tr>
   <tr>
     <td rowspan="2"><img src="../assets/20mm xyz calibration cube.png" alt="20mm xyz calibration cube"</td>
-    <td>20mm XYZ Calibration Cube</td>
+    <td><b><i>20mm XYZ Calibration Cube</i></b></td>
   </tr>
   <tr>
     <td>20 mm XYZ calibration cube for checking the calibration and extrusion<br>
@@ -30,7 +30,7 @@ Parts you might like to print to enhance the machine performance at start up.
   </tr>
   <tr>
     <td rowspan="2"><img src="../assets/thumbwheels.png" alt="heatbed spring thumbwheels"</td>
-    <td>Thumbwheels</td>
+    <td><b><i>Thumbwheels</i></b></td>
   </tr>
   <tr>
     <td>Print them in XY scale 1.05 enlarged so the 3 mm nut can be pressed in more easily.<br>
@@ -40,7 +40,7 @@ Parts you might like to print to enhance the machine performance at start up.
   </tr>
   <tr>
     <td rowspan="2"><img src="../assets/bed spring bushing.png" alt="heatbed spring thumbwheels"</td>
-    <td>Bed Bushings</td>
+    <td><b><i>Bed Bushings</i></b></td>
   </tr>
   <tr>
     <td>Bed bushings to capture the springs can be found here.<br>
@@ -62,7 +62,7 @@ Parts you might like to print to enhance the machine performance at start up.
   </tr>
   <tr>
     <td rowspan="2"><img src="../assets/internal corner brackets.png" alt="Internal Corner Brackets"</td>
-    <td>Internal Corner Brackets</td>
+    <td><b><i>Internal Corner Brackets</i></b></td>
   </tr>
   <tr>
     <td>Replacement of stock L-Bracket<br>
@@ -71,7 +71,7 @@ Parts you might like to print to enhance the machine performance at start up.
   </tr>
   <tr>
     <td rowspan="2"><img src="../assets/outside corner brackets.png" alt="Outsider Corner Brackets"</td>
-    <td>Outsider Corner Brackets</td>
+    <td><b><i>Outsider Corner Brackets</i></b></td>
   </tr>
   <tr>
     <td>Extra support for z axis frame's corner brackets<br>

@@ -9,5 +9,5 @@
 	* [2.4 XYZ Proximity Sensors Adjustment](chapter02/proximity-sensors.md)
 	* [2.5 Z Bottom and Top Plate Bearing Fitting](chapter02/plate-bearing-fitting.md)
 	* [2.6 E3D-V6 Hot-end & Bowden Tube Assembly](chapter02/extruder-and-bowden-tube.md)
-	* [2.7 Recommended prints to start with](chapter02/recommended-prints.md)
+	* [2.7 Recommended Prints](chapter02/recommended-prints.md)
 
