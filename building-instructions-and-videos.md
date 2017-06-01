@@ -120,6 +120,24 @@ Parts you might like to print to enhance the machine performance at start up.
 
 <table style="width:100%; border: 1px solid black">
   <tr>
+    <th colspan="2">Calibration</th>
+  </tr>
+  <tr>
+    <th>Image</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td rowspan="2"><img src="assets/20mm xyz calibration cube.png" alt="20mm xyz calibration cube"</td>
+    <td>20mm XYZ Calibration Cube</td>
+  </tr>
+  <tr>
+    <td>20 mm XYZ calibration cube for checking the calibration and extrusion<br>
+    <a href="http://www.thingiverse.com/thing:214260">http://www.thingiverse.com/thing:214260</a>
+    </td>
+  </tr>
+</table>
+<table style="width:100%; border: 1px solid black">
+  <tr>
     <th colspan="2">Item type</th>
   </tr>
   <tr>
@@ -136,6 +154,24 @@ Parts you might like to print to enhance the machine performance at start up.
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
