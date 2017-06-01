@@ -138,54 +138,31 @@ Parts you might like to print to enhance the machine performance at start up.
 </table>
 <table style="width:100%; border: 1px solid black">
   <tr>
-    <th colspan="2">Item type</th>
+    <th colspan="2">Heatbed</th>
   </tr>
   <tr>
     <th>Image</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2"><img src="assets/20mm xyz calibration cube.png" alt="20mm xyz calibration cube"</td>
-    <td>20mm XYZ Calibration Cube</td>
+    <td rowspan="2"><img src="assets/thumbwheels.png" alt="heatbed spring thumbwheels"</td>
+    <td>Thumbwheels</td>
   </tr>
   <tr>
-    <td>20 mm XYZ calibration cube for checking the calibration and extrusion<br>
-    <a href="http://www.thingiverse.com/thing:214260">http://www.thingiverse.com/thing:214260</a>
+    <td>Print them in XY scale 1.05 enlarged so the 3 mm nut can be pressed in more easily.<br>
+    Four 3 mm regular nuts need to be purchased.<br>
+    <a href="http://www.thingiverse.com/thing:1571664">http://www.thingiverse.com/thing:1571664</a>
     </td>
   </tr>
+  <tr>
+    <td rowspan="2"><img src="assets/bed spring bushing.png" alt="heatbed spring thumbwheels"</td>
+    <td>Bed Bushings</td>
+  </tr>
+  <tr>
+    <td>Bed bushings to capture the springs can be
+found here.<br>
+    <a href="http://www.thingiverse.com/thing:1571664">http://www.thingiverse.com/thing:1571664</a>
+    </td>
+  </tr>
+
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
