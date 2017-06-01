@@ -181,7 +181,7 @@ Parts you might like to print to enhance the machine performance at start up.
     <td>Internal Corner Brackets</td>
   </tr>
   <tr>
-    <td>Replacement of stock L-Bracket
+    <td>Replacement of stock L-Bracket<br>
     <a href="http://www.thingiverse.com/thing:1764563">http://www.thingiverse.com/thing:1764563</a>
     </td>
   </tr>
