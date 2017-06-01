@@ -166,3 +166,34 @@ Parts you might like to print to enhance the machine performance at start up.
     </td>
   </tr>
 </table>
+
+
+<table style="width:100%; border: 1px solid black">
+  <tr>
+    <th colspan="2">Mechanical</th>
+  </tr>
+  <tr>
+    <th>Image</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td rowspan="2"><img src="assets/internal corner brackets.png" alt="heatbed spring thumbwheels"</td>
+    <td>Internal Corner Brackets</td>
+  </tr>
+  <tr>
+    <td>Replacement of stock L-Bracket
+    <a href="http://www.thingiverse.com/thing:1764563">http://www.thingiverse.com/thing:1764563</a>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"><img src="assets/bed spring bushing.png" alt="heatbed spring thumbwheels"</td>
+    <td>Bed Bushings</td>
+  </tr>
+  <tr>
+    <td>Bed bushings to capture the springs can be found here.<br>
+    <a href="http://www.thingiverse.com/thing:1994198">http://www.thingiverse.com/thing:1994198</a><br>
+    They also prevent the spring to carve into the bed electronic resistance tracks. <br>
+    Needs four M3 nuts for upper bushings. Lower bushings do not need M3 nuts. Four 3 mm regular nuts need to be purchased.
+    </td>
+  </tr>
+</table>
