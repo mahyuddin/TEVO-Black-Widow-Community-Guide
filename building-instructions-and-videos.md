@@ -127,11 +127,12 @@ Parts you might like to print to enhance the machine performance at start up.
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2">Gambar boh sini</td>
-    <td>Item name</td>
+    <td rowspan="2"><img src="assets/20mm xyz calibration cube.png" alt="20mm xyz calibration cube"</td>
+    <td>20mm XYZ Calibration Cube</td>
   </tr>
   <tr>
-    <td>Description</td>
+    <td>20 mm XYZ calibration cube for checking the calibration and extrusion<br>[http://www.thingiverse.com/thing:214260](http://www.thingiverse.com/thing:214260)
+    </td>
   </tr>
 </table>
 
