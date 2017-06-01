@@ -159,9 +159,8 @@ Parts you might like to print to enhance the machine performance at start up.
     <td>Bed Bushings</td>
   </tr>
   <tr>
-    <td>Bed bushings to capture the springs can be
-found here.<br>
-    <a href="http://www.thingiverse.com/thing:1571664">http://www.thingiverse.com/thing:1571664</a>
+    <td>Bed bushings to capture the springs can be found here.<br>
+    <a href="http://www.thingiverse.com/thing:1994198">http://www.thingiverse.com/thing:1994198</a>
     </td>
   </tr>
 
