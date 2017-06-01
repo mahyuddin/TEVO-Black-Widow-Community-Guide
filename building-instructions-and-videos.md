@@ -190,7 +190,7 @@ Parts you might like to print to enhance the machine performance at start up.
     <td>Outsider Corner Brackets</td>
   </tr>
   <tr>
-    <td>Extra support for corner brackets<br>
+    <td>Extra support for z axis frames corner brackets<br>
     <a href="http://www.thingiverse.com/thing:1994198">http://www.thingiverse.com/thing:1994198</a><br>
     They also prevent the spring to carve into the bed electronic resistance tracks. <br>
     Needs four M3 nuts for upper bushings. Lower bushings do not need M3 nuts. Four 3 mm regular nuts need to be purchased.
