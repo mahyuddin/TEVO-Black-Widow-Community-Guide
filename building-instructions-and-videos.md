@@ -131,7 +131,8 @@ Parts you might like to print to enhance the machine performance at start up.
     <td>20mm XYZ Calibration Cube</td>
   </tr>
   <tr>
-    <td>20 mm XYZ calibration cube for checking the calibration and extrusion<br>[http://www.thingiverse.com/thing:214260](http://www.thingiverse.com/thing:214260)
+    <td>20 mm XYZ calibration cube for checking the calibration and extrusion<br>
+    <a href="http://www.thingiverse.com/thing:214260">http://www.thingiverse.com/thing:214260</a>
     </td>
   </tr>
 </table>
