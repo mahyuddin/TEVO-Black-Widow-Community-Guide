@@ -120,11 +120,14 @@ Parts you might like to print to enhance the machine performance at start up.
 
 <table style="width:100%; border: 1px solid black">
   <tr>
+    <th colspan="2">Item type</th>
+  </tr>
+  <tr>
     <th>Image</th>
     <td>Description</td>
   </tr>
   <tr>
-    <th rowspan="2">Gambar boh sini</th>
+    <td rowspan="2">Gambar boh sini</td>
     <td>Item name</td>
   </tr>
   <tr>
