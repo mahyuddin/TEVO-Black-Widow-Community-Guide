@@ -3,7 +3,7 @@
 <table border=1>
   <tbody>
     <tr>
-      <td style="text-align:center; width:50%"><img src="assets/z plate bearing fitting 01.png" alt="Fitting z plate bearing">
+      <td style="text-align:center; width:50%"><img src="../assets/z plate bearing fitting 01.png" alt="Fitting z plate bearing">
       <img src="assets/z plate bearing fitting 02.png" alt="Fitting z plate bearing">
       <img src="assets/z plate bearing fitting 03.png" alt="Fitting z plate bearing">
       <img src="assets/z plate bearing fitting 04.png" alt="Fitting z plate bearing">

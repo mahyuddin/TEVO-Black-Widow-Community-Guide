@@ -17,7 +17,7 @@ Assembly instructions can be found here: [http://wiki.e3d-online.com/wiki/E3D-v6
 - The nozzle is not from the E3D family.
 <table border=1>
   <tbody>
-    <tr style="text-align:center"><img src="assets/BW Extruder and Stock-v3 Hotend General.png" alt="BW Extruder and Stock-v3 Hotend"></tr>
+    <tr style="text-align:center"><img src="../assets/BW Extruder and Stock-v3 Hotend General.png" alt="BW Extruder and Stock-v3 Hotend"></tr>
     <tr>      <b>Figure 1:</b> TEVO Black Widow Stock Extruder and Stock V3 Hot-end    </tr>
     <tr><br><br>It is recommend for anyone who has one of it’s components faulty, to do the following:<br><br>
     <ol>
@@ -28,7 +28,7 @@ Assembly instructions can be found here: [http://wiki.e3d-online.com/wiki/E3D-v6
 <br><br>
 <table border=1>
   <tbody>
-    <tr style="text-align:center"><img src="assets/BW with Stock-v3 Hotend Cross-Section.png" alt="BW Stock-v3 Hotend Cross-Section"></tr>
+    <tr style="text-align:center"><img src="../assets/BW with Stock-v3 Hotend Cross-Section.png" alt="BW Stock-v3 Hotend Cross-Section"></tr>
     <tr><b>Figure #2:</b> TEVO Black Widow Stock-v3 Hotend Cross-Section</tr>
     <tr><br><br> One of the most common errors, when assembling the hot-end, which is the #1 cause for leaks and clogs, is the way the nozzle is assembled with relations to the heat-block and heat-break.<br><br>
 The nozzle must be locked to the heat-break, not the heat-block, as depicted in <b>Figure 2</b> above.<br><br>
@@ -39,14 +39,14 @@ If the gap is large enough, the rapid temperature changes during retractions, wi
 <br><br>
 <table border=1>
   <tbody>
-    <tr style="text-align:center"><img src="assets/BW with E3D Extruder and Hotend.png" alt="BW with Stock Extruder and E3D-V6 Hot-end"></tr>
+    <tr style="text-align:center"><img src="../assets/BW with E3D Extruder and Hotend.png" alt="BW with Stock Extruder and E3D-V6 Hot-end"></tr>
     <tr style="text-align:center">      <b>Figure 3:</b> TEVO Black Widow with Stock Extruder and E3D-V6 Hot-end</tr>
     </tbody>
 </table>
 <br><br>
 <table style="border: 1px solid black">
   <tbody>
-    <tr style="text-align:center"><img src="assets/BW with E3D Hotend Cross-Section.png" alt="E3D-V6 Hot-end Cross-Section"></tr>
+    <tr style="text-align:center"><img src="../assets/BW with E3D Hotend Cross-Section.png" alt="E3D-V6 Hot-end Cross-Section"></tr>
     <tr>      <b>Figure 4:</b> E3D-V6 Hot-end Cross-Section Views</tr>
     </tbody>
 </table>
