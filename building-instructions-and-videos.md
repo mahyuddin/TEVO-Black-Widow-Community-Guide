@@ -125,10 +125,10 @@ Parts you might like to print to enhance the machine performance at start up.
   </tr>
   <tr>
     <th rowspan="2">Gambar boh sini</th>
-    <td>55577854</td>
+    <td>Item name</td>
   </tr>
   <tr>
-    <td>55577855</td>
+    <td>Description</td>
   </tr>
 </table>
 
