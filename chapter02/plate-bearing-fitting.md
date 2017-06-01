@@ -4,9 +4,9 @@
   <tbody>
     <tr>
       <td style="text-align:center; width:50%"><img src="../assets/z plate bearing fitting 01.png" alt="Fitting z plate bearing">
-      <img src="assets/z plate bearing fitting 02.png" alt="Fitting z plate bearing">
-      <img src="assets/z plate bearing fitting 03.png" alt="Fitting z plate bearing">
-      <img src="assets/z plate bearing fitting 04.png" alt="Fitting z plate bearing">
+      <img src="../assets/z plate bearing fitting 02.png" alt="Fitting z plate bearing">
+      <img src="../assets/z plate bearing fitting 03.png" alt="Fitting z plate bearing">
+      <img src="../assets/z plate bearing fitting 04.png" alt="Fitting z plate bearing">
       </td>
       <td style="text-align:left; width:50%">
       If you experience play on bearings, use the
