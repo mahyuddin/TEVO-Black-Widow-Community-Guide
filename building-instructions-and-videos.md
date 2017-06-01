@@ -118,21 +118,19 @@ If the gap is large enough, the rapid temperature changes during retractions, wi
 Parts you might like to print to enhance the machine performance at start up.
 
 
-<table style="border: 1px solid black">
-<tr>
-    <th style="text-align:center">Item</th>
-    <th>Description</th>
-</tr>
-<tr>
-    <td style="text-align:center">...gambar....</td>
-    <td>...</td>
-</tr>
-<tr>
-    <td style="text-align:center">...</td>
-    <td>...</td>
-    </tr>
+<table style="width:100%; border: 1px solid black">
+  <tr>
+    <th>Image</th>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Gambar boh sini</th>
+    <td>55577854</td>
+  </tr>
+  <tr>
+    <td>55577855</td>
+  </tr>
 </table>
-
 
 
 
