@@ -123,8 +123,8 @@ Parts you might like to print to enhance the machine performance at start up.
     <th colspan="2">Item type</th>
   </tr>
   <tr>
-    <td>Image</td>
-    <td>Description</td>
+    <th>Image</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td rowspan="2">Gambar boh sini</td>
