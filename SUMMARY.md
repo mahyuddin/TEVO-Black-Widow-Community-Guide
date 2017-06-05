@@ -11,4 +11,9 @@
 	* [2.6 E3D-V6 Hot-end & Bowden Tube Assembly](chapter02/extruder-and-bowden-tube.md)
 	* [2.7 Recommended Prints](chapter02/recommended-prints.md)
 	* [2.8 External MOSFET Mounting](chapter02/external-mosfet-mounting.md)
+* [3. Operation](chapter03/README.md)
+	* [3.1 Filament Change/Load Procedure](chapter03/filament-change-load.md)
+	* [3.2 Manual Bed Leveling Procedure](chapter03/manual-bed-leveling.md)
+	* [3.3 Intermittent Filament Extrusion](chapter03/intermittent-filament-extrusion.md)
+	* [3.4 Machine Noise Reduction](chapter03/machine-noise-reduction.md)
 
